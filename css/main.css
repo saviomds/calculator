@@ -1,0 +1,52 @@
+.container {
+  text-align: center;
+  padding: 20px;
+}
+body {
+  background-color: #000;
+  height: 50vh;
+  padding: 30px;
+}
+.sub {
+  margin: auto;
+  background-color: #2e2e2eb1;
+  border-radius: 10px;
+  height: 70vh;
+  width: 30%;
+  padding: 30px;
+}
+.sub input,
+.sub input:active {
+  font-size: 40px;
+  padding: 30px;
+  border-radius: 30px;
+  border: none;
+  width: 80%;
+  text-align: end;
+  background-color: #2e2e2eb1;
+  color: rgb(255, 255, 255);
+}
+.button {
+  padding: 30px;
+  font-size: 30px;
+  border-radius: 50px;
+}
+
+.sub button {
+  margin: 20px;
+  background-color: #000;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+.sub button:active {
+  background-color: #ffffff16;
+}
+.sub #change {
+  background-color: rgb(255, 162, 0);
+  color: #fff;
+}
+.sub #change:active {
+  background-color: rgb(255, 255, 193);
+  color: #fff;
+}
